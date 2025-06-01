@@ -118,17 +118,3 @@ Image-Coloriser/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Colorful Image Colorization](https://richzhang.github.io/colorization/) for the AI model
-- [Next.js](https://nextjs.org/) for the frontend framework
-- [FastAPI](https://fastapi.tiangolo.com/) for the backend framework
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Radix UI](https://www.radix-ui.com/) for accessible components
-
-## Contact
-
-Sneha PM - [@snehapm04](https://github.com/snehapm04)
-
-Project Link: [https://github.com/snehapm04/Image-Coloriser](https://github.com/snehapm04/Image-Coloriser) 
